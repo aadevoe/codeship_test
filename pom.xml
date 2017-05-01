@@ -5,7 +5,7 @@
 	<groupId>com.sematree.codeship_test</groupId>
 	<artifactId>codeship_test</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<name>ST SAFF Elastic Indexer</name>
+	<name>testing codeship </name>
 	<description>Client to put and retrieve data in ElasticSearch</description>
 
 	<scm>
