@@ -1,0 +1,27 @@
+{
+   "reportNumber": "101221895CRT-004",
+   "applicantName": "Innovative Concepts in Entertainment",
+   "applicantAddress": "10123 Main Street, Clarence, NY 14031, USA",
+   "testProcedure": "CER",
+   "nonStandardTestMethod": "N/A",
+   "testReportFormNumber": "IEC60335_2_82C",
+   "testItemDescription": "Entertainment System",
+   "tradeMark": "ICE™",
+   "manufacturer": "Innovative Concepts Inc.",
+   "modelTypeReference": "Kungfu Panda, KF1100X, KF1200X",
+   "ratings": "120 Vac, 60Hz, 6A. OR 230V 50Hz 3A",
+   "metadata": {
+      "documentName": "ParseExample.doc",
+      "author": "OVE",
+      "modifiedBy": "Derek Kaczmarek",
+      "revisionNumber": "10",
+      "dateCreated": "Nov 6, 2014 8:29:00 AM",
+      "dateModified": "Nov 19, 2014 11:16:00 AM",
+      "wordCount": "27646",
+      "pageCount": "101",
+      "characterCount": "157588",
+      "mimeType": "application/msword",
+      "fileSize": 3539456,
+      "fileSizeReadable": "3.38 MB"
+   }
+}
